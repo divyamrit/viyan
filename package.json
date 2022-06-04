@@ -1,0 +1,25 @@
+{
+  "name": "viyan",
+  "version": "0.0.2",
+  "description": "a website with no intention for self benefits just for sake for world or fun! 😁😂",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyamrit/viyan.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divyamrit/viyan/issues"
+  },
+  "homepage": "https://github.com/divyamrit/viyan#readme",
+  "dependencies": {
+    "astro": "^1.0.0-beta.40"
+  }
+}
